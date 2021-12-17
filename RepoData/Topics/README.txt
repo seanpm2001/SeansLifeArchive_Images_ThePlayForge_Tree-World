@@ -1,11 +1,15 @@
 android
+ios
 screenshots
+video-games
 jpg
 gaming
 gplv3
+stock-images
 md
 txt
 gpl3
+mobile-gaming
 seanpm2001-life-archive
 git-image
 seanpm2001
@@ -13,3 +17,4 @@ tree-world
 theplayforge
 the-playforge
 the-play-forge
+zootree
