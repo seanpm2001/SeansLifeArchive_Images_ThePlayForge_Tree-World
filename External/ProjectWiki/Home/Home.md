@@ -3,6 +3,16 @@
 
 # Tree World Wiki (unofficial)
 
+![https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Wordmark/placeholder_title-hd.png](https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Wordmark/placeholder_title-hd.png)
+
+<details><summary><p lang="en">Click/tap here to expand/collapse the cover art</p></summary>
+
+![https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Title/title_screen-hd.png](https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Title/title_screen-hd.png)
+
+</details>
+
+![https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Icon/TreeWorldLogo.jpeg](https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Icon/TreeWorldLogo.jpeg)
+
 Welcome to the SeansLifeArchive_Images_ThePlayForge_Tree-World wiki!
 
 ## Starter pages
@@ -26,6 +36,18 @@ Welcome to the SeansLifeArchive_Images_ThePlayForge_Tree-World wiki!
 ### Tree
 
 [Tree Keepers](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tree-Keeper)
+
+[Tree fruit rewards](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tree-fruit-rewards)
+
+[Apples](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Apples)
+
+[Grapefruit](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Grapefruit)
+
+[Kiwi](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Kiwi)
+
+[Lemon](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Lemon)
+
+[List of tree expansion costs + branch expansion cost]
 
 ### Critter capsules
 
@@ -55,31 +77,115 @@ Welcome to the SeansLifeArchive_Images_ThePlayForge_Tree-World wiki!
 
 Incomplete list. When it is completed, there should be 301 entries.
 
-[Froggy (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Froggy-(critter))
+[Froggy (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Froggy-(critter)) <!-- 001 !-->
 
-[Angler Bunny (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Angler-Bunny-(critter))
+[Angler Bunny (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Angler-Bunny-(critter)) <!-- 002 !-->
 
-[Caiman (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Caiman-(critter))
+[Caiman (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Caiman-(critter)) <!-- 003 !-->
 
-[Bandicoon (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Bandicoon-(critter))
+[Bandicoon (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Bandicoon-(critter)) <!-- 004 !-->
 
-[Tarantula (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tarantula-(critter))
+[Tarantula (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tarantula-(critter)) <!-- 005 !-->
 
-[Bunny Pig (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Bunny-Pig-(critter))
+[Bunny Pig (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Bunny-Pig-(critter)) <!-- 006 !-->
 
-[Tarantula (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tarantula-(critter))
+[Tarantula (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tarantula-(critter)) <!-- 007 !-->
 
-[Skunk (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Skunk-(critter))
+[Skunk (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Skunk-(critter)) <!-- 008 !-->
 
-[Beaver (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Beaver-(critter))
+[Beaver (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Beaver-(critter)) <!-- 009 !-->
 
-[Ant (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Ant-(critter))
+[Ant (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Ant-(critter)) <!-- 010 !-->
 
-[Rhino (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Rhino-(critter))
+[Rhino (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Rhino-(critter)) <!-- 011 !-->
+
+### Plants
+
+#### Level 1
+
+[Color drops (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Color-drops-(flower))
+
+[Lapper berries (fruit)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Lapper-berries-(fruit))
+
+[Forest tails (moss)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Forest-tails-(moss))
+
+[Mushglooms (mushroom)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Mushglooms-(mushroom))
+
+[Wildvine (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Wildvine-(vine))
+
+#### Level 2
+
+[BloomingStars (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/BloomingStars-(flower))
+
+[Wild Sapples (fruit)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Wild-Sapples-(fruit))
+
+[Leechens (moss)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Leechens-(moss))
+
+[Rubytops (mushroom)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Rubytops-(mushroom))
+
+[Stranglethorn (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Stranglethorn-(vine))
+
+#### Level 3
+
+[Trumplets (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Trumplets-(flower))
+
+[Newton Fruit (fruit)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Newton-fruit-(fruit))
+
+[Whisp Moss (moss)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Whisp-Moss-(moss))
+
+[Whiteveils (mushroom)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/WhiteVeils-(mushroom))
+
+[Creep vine (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Creep-vine-(vine))
+
+#### Level 4
+
+[Wild Suns (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Wild-Suns-(flower))
+
+[Num berries (fruit)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Num-berries-(fruit))
+
+[Dank Moss (moss)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Dank-Moss-(moss))
+
+[GilderShelves (mushroom)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/GilderShelves-(mushroom))
+
+[Hungry Twists (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Hungry-Twists-(vine))
+
+#### Level 5
+
+[Moon Lotus (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Moon-Lotus-(flower))
+
+[Saturns fruit (fruit)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Saturns-fruit-(fruit))
+
+[Cosmic Trail (moss)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Cosmic-Trail-(moss))
+
+[Pluto Amanita (mushroom)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Pluto-Amanita-(mushroom))
+
+[Strange vines (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Strange-vines-(vine))
+
+#### Level 6
+
+[Fairys plant (versatile)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Fairys-plant-(versatile))
+
+### Original developers
+
+[The PlayForge](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/The-PlayForge)
+
+[Behavior Interactive](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Behavior-Interactive)
+
+### Game glitches
+
+[Critter duplication glitch](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Critter-duplication-glitch)
+
+[Sky loading glitch](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Sky-loading-glitch)
+
+[Disappearing critters glitch](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Disappearing-critters-glitch)
+
+[Repetitive crash glitch](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Repetitive-crash-glitch)
+
+**Unconfirmed:** _Tree food and vitagem swap glitch_
 
 ### Developer
 
-[Todo list (coming soon)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-WOrld/wiki/.TODO)
+[Todo list (coming soon)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/.TODO)
 
 ## See also
 
@@ -87,6 +193,6 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 ***
 
-**Page version:** `2 (2022, Tuesday, February 15th at 3:14 pm)`
+**Page version:** `3 (2022, Tuesday, February 15th at 3:49 pm)`
 
 ***
