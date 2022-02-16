@@ -7,6 +7,8 @@
 
 Welcome to the SeansLifeArchive_Images_ThePlayForge_Tree-World wiki!
 
+This is an unofficial Tree World Wiki project.
+
 ## Starter pages
 
 ### Lists
@@ -75,9 +77,21 @@ Welcome to the SeansLifeArchive_Images_ThePlayForge_Tree-World wiki!
 
 [Adventures](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Adventures)
 
+[Treasure chests](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Treasure-Chests)
+
+[Goblin King](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Goblin-King)
+
+[Bombs](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Bombs)
+
+### Soundtrack
+
+[Tree World soundtrack](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Soundtrack)
+
 ### Critters
 
 Incomplete list. When it is completed, there should be 301 entries.
+
+**Current entry count:** `135`
 
 [Froggy (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Froggy-(critter)) <!-- 001 !-->
 
@@ -203,6 +217,156 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 [Tamarin (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tamarin-(critter)) <!-- 061 !-->
 
+[Salaroo (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Salaroo-(critter)) <!-- 062 !-->
+
+[Deer (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Deer-(critter)) <!-- 062 !-->
+
+[Kangaroo (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Kangaroo-(critter)) <!-- 063 !-->
+
+[Hippopotamus (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Hippopotamus-(critter)) <!-- 064 !-->
+
+[Pelican (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Pelican-(critter)) <!-- 065 !-->
+
+[Florakid (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Florakid-(critter)) <!-- 066 !-->
+
+[Ladybug (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Ladybug-(critter)) <!-- 067 !-->
+
+[Koi Fish (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Koi-Fish-(critter)) <!-- 068 !-->
+
+[Boar (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Boar-(critter)) <!-- 069 !-->
+
+[Sea Turtle (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Sea-turtle-(critter)) <!-- 070 !-->
+
+[SnailWad (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/SnailWad-(critter)) <!-- 071 !-->
+
+[Zonkey (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Zonkey-(critter)) <!-- 072 !-->
+
+[Manticore (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Manticore-(critter)) <!-- 073 !-->
+
+[Elephant (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Elephant-(critter)) <!-- 074 !-->
+
+[Fluffy Sheepling (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Fluffy-Sheepling-(critter)) <!-- 075 !-->
+
+[Pterodactyl (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Pterodactyl-(critter)) <!-- 076 !-->
+
+[Panda (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Panda-(critter)) <!-- 077 !-->
+
+[Chinchilla (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Chinchilla-(critter)) <!-- 078 !-->
+
+[Basilisk (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Basilisk-(critter)) <!-- 079 !-->
+
+[Zebra (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Zebra-(critter)) <!-- 080 !-->
+
+[Stingray (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Stingray-(critter)) <!-- 081 !-->
+
+[Peacock (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Peacock-(critter)) <!-- 082 !-->
+
+[Camberwell Beauty (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Camberwell-Beauty-(critter)) <!-- 083 !-->
+
+[Silkmoth (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Silkmoth-(critter)) <!-- 084 !-->
+
+[Hamster (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Hamster-(critter)) <!-- 085 !-->
+
+[Caterpillow (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Caterpillow-(critter)) <!-- 086 !-->
+
+[Kingfisher (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Kingfisher-(critter)) <!-- 087 !-->
+
+[Silver-Studded Blue (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Silver-Studded-Blue-(critter)) <!-- 088 !-->
+
+[Snuckling (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Snuckling-(critter)) <!-- 089 !-->
+
+[Fluffy Hopper (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Fluffy-Hopper-(critter)) <!-- 090 !-->
+
+[Sproutkid (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Sproutkid-(critter)) <!-- 091 !-->
+
+[Corgi (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Corgi-(critter)) <!-- 092 !-->
+
+[Lionfish (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Lionfish-(critter)) <!-- 093 !-->
+
+[Duck (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Duck-(critter)) <!-- 094 !-->
+
+[Velociraptor (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Velociraptor-(critter)) <!-- 095 !-->
+
+[Small Copper (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Small-Copper-(critter)) <!-- 096 !-->
+
+[Squirrel Fox (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Squirrel-Fox-(critter)) <!-- 097 !-->
+
+[Squirlbit (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Squirlbit-(critter)) <!-- 098 !-->
+
+[Swan (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Swan-(critter)) <!-- 099 !-->
+
+[Penguin (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Penguin-(critter)) <!-- 100 !-->
+
+[Flamingo (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Flamingo-(critter)) <!-- 101 !-->
+
+[Aardvark (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Aardvark-(critter)) <!-- 102 !-->
+
+[Bobcat (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Bobcat-(critter)) <!-- 103 !-->
+
+[Mantis (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Mantis-(critter)) <!-- 104 !-->
+
+[Luna moth (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Luna-moth-(critter)) <!-- 105 !-->
+
+[Clydesdale (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Clydesdale-(critter)) <!-- 106 !-->
+
+[Giraffe (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Giraffe-(critter)) <!-- 107 !-->
+
+[Fidger (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Fidger-(critter)) <!-- 108 !-->
+
+[Crow (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Crow-(critter)) <!-- 109 !-->
+
+[Seal (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Seal-(critter)) <!-- 110 !-->
+
+[Kangaroo Mouse (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Kangaroo-Mouse-(critter)) <!-- 111 !-->
+
+[Japanese Beetle (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Japanese-Beetle-(critter)) <!-- 112 !-->
+
+[Lemur (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Lemur-(critter)) <!-- 113 !-->
+
+[Spinosaurus (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Spinosaurus-(critter)) <!-- 114 !-->
+
+[Manatee (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Manatee-(critter)) <!-- 115 !-->
+
+[Road Runner (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Road-Runner-(critter)) <!-- 116 !-->
+
+[Small Apollo (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Small-Apollo-(critter)) <!-- 117 !-->
+
+[Axolotl (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Axolotl-(critter)) <!-- 118 !-->
+
+[Hedgehog (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Hedgehog-(critter)) <!-- 119 !-->
+
+[Ferret (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Ferret-(critter)) <!-- 120 !-->
+
+[Tiger (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tiger-(critter)) <!-- 121 !-->
+
+[Star-Nosed Mole (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Star-nosed-mole-(critter)) <!-- 122 !-->
+
+[Gorilla (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Gorilla-(critter)) <!-- 123 !-->
+
+[Possum (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Possum-(critter)) <!-- 124 !-->
+
+[Arctic Fox (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Arctic-Fox-(critter)) <!-- 125 !-->
+
+[Eastern Phoenix (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Eastern-Phoenix-(critter)) <!-- 126 !-->
+
+[Slow Loris (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Slow-Loris-(critter)) <!-- 127 !-->
+
+[Lynx (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Lynx-(critter)) <!-- 128 !-->
+
+[Paradise Birdwing (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Paradise-Birdwing-(critter)) <!-- 129 !-->
+
+[Dolphin (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Dolphin-(critter)) <!-- 130 !-->
+
+[Cobra (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Cobra-(critter)) <!-- 131 !-->
+
+[Reindeer (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Reindeer-(critter)) <!-- 132 !-->
+
+[Blue Bird (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Blue-Bird-(critter)) <!-- 133 !-->
+
+[Grasshopper (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Grasshopper-(critter)) <!-- 134 !-->
+
+[Poodle (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Poodle-(critter)) <!-- 135 !-->
+
 ### Rarity levels
 
 [Common](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Rarity-Common)
@@ -299,6 +463,10 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 **Unconfirmed:** _Tree food and vitagem swap glitch_
 
+### Version history
+
+Section coming soon.
+
 ### Developer
 
 [Todo list (coming soon)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/.TODO)
@@ -307,8 +475,26 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 [ZooTree Wiki (coming soon)](https://github.com/seanpm2001/ZooTree/wiki/home)
 
+## External links
+
+[Tree World on FANDOM](https://treeworld.fandom.com/wiki/Tree_World_Wiki)
+
+[Tree World on APKPure](https://apkpure.com/tree-world%E2%84%A2-free-pocket-pet-adventure/com.playforge.treeoflife)
+
+> [Version history page](https://apkpure.com/tree-world%E2%84%A2-free-pocket-pet-adventure/com.playforge.treeoflife/versions)
+
+[Tree World on Google Play](https://play.google.com/store/apps/details?id=com.playforge.treeoflife&hl=en&gl=US)
+
 ***
 
-**Page version:** `5 (2022, Tuesday, February 15th at 8:32 pm)`
+## Page info
+
+**Page type:** `Wiki homepage`
+
+**Page formatting:** `Markdown (Commonmark) (*.md *.mkd *.mdown *.markdown)`
+
+**Page version:** `6 (2022, Wednesday, February 16th at 1:32 pm)`
+
+**Line count (Including blank lines and compiler line):** `501`
 
 ***
