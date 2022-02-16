@@ -1,9 +1,9 @@
 
 ***
 
-![![https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Icon/TreeWorldLogo.jpeg](https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Icon/TreeWorldLogo.jpeg)
+![https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Icon/TreeWorldLogo.jpeg](https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Icon/TreeWorldLogo.jpeg)
 
-# Seans Life Archive / Images / Tree World
+# ( /// Seans Life Archive / Images / Tree World / Wiki / )
 
 ## Wiki sidebar
 
@@ -23,7 +23,9 @@
 
 ***
 
-**Sidebar version:** `1 (Tuesday, 2022 February 15th at 8:08 pm)`
+**Sidebar version:** `2 (Tuesday, 2022 February 15th at 8:40 pm)`
+
+<!-- V2: Fixed a very small, but highly annoying typo !-->
 
 ***
 
