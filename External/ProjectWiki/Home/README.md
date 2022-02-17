@@ -13,6 +13,8 @@ This is an unofficial Tree World Wiki project.
 
 ### Lists
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the lists of lists section</H4></summary>
+
 [List of critters](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-critters)
 
 [List of plants](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-plants)
@@ -31,6 +33,8 @@ This is an unofficial Tree World Wiki project.
 
 [List of Poppy upgrades](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-Poppy-upgrades)
 
+</details>
+
 ### Main characters
 
 [Poppy](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Poppy)
@@ -38,6 +42,8 @@ This is an unofficial Tree World Wiki project.
 [Pappy (fairy)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-WOrld/wiki/Pappy-(fairy))
 
 ### Tree
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the tree section</H4></summary>
 
 [Tree Keepers](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tree-Keeper)
 
@@ -52,6 +58,8 @@ This is an unofficial Tree World Wiki project.
 [Lemon](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Lemon)
 
 [List of tree expansion costs + branch expansion cost](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-tree-expansion-costs-and-branch-expansion-costs)
+
+</details>
 
 ### Critter capsules
 
@@ -75,6 +83,8 @@ This is an unofficial Tree World Wiki project.
 
 ### Adventures
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the adventures section</H4></summary>
+
 [Adventures](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Adventures)
 
 [Treasure chests](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Treasure-Chests)
@@ -83,15 +93,19 @@ This is an unofficial Tree World Wiki project.
 
 [Bombs](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Bombs)
 
+</details>
+
 ### Soundtrack
 
 [Tree World soundtrack](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Soundtrack)
 
 ### Critters
 
-Incomplete list. When it is completed, there should be 301 entries.
+_Incomplete list. When it is completed, there should be 301 entries._
 
-**Current entry count:** `135`
+**Current entry count:** `136` / `301` (`45.18%`)
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the critters list section</H4></summary>
 
 [Froggy (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Froggy-(critter)) <!-- 001 !-->
 
@@ -367,7 +381,13 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 [Poodle (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Poodle-(critter)) <!-- 135 !-->
 
+[Echidna (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Echidna-(critter)) <!-- 136 !-->
+
+</details>
+
 ### Rarity levels
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the rarity levels section</H4></summary>
 
 [Common](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Rarity-Common)
 
@@ -379,9 +399,13 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 [Limited](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Rarity-Limited)
 
+</details>
+
 ### Plants
 
 #### Level 1
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the level 1 plant section</H4></summary>
 
 [Color drops (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Color-drops-(flower))
 
@@ -393,7 +417,11 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 [Wildvine (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Wildvine-(vine))
 
+</details>
+
 #### Level 2
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the level 2 plant section</H4></summary>
 
 [BloomingStars (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/BloomingStars-(flower))
 
@@ -405,7 +433,11 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 [Stranglethorn (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Stranglethorn-(vine))
 
+</details>
+
 #### Level 3
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the level 3 plant section</H4></summary>
 
 [Trumplets (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Trumplets-(flower))
 
@@ -417,7 +449,11 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 [Creep vine (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Creep-vine-(vine))
 
+</details>
+
 #### Level 4
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the level 4 plant section</H4></summary>
 
 [Wild Suns (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Wild-Suns-(flower))
 
@@ -429,7 +465,11 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 [Hungry Twists (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Hungry-Twists-(vine))
 
+</details>
+
 #### Level 5
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the level 5 plant section</H4></summary>
 
 [Moon Lotus (flower)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Moon-Lotus-(flower))
 
@@ -440,6 +480,8 @@ Incomplete list. When it is completed, there should be 301 entries.
 [Pluto Amanita (mushroom)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Pluto-Amanita-(mushroom))
 
 [Strange vines (vine)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Strange-vines-(vine))
+
+</details>
 
 #### Level 6
 
@@ -453,6 +495,8 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 ### Game glitches
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the game glitches section</H4></summary>
+
 [Critter duplication glitch](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Critter-duplication-glitch)
 
 [Sky loading glitch](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Sky-loading-glitch)
@@ -463,9 +507,19 @@ Incomplete list. When it is completed, there should be 301 entries.
 
 **Unconfirmed:** _Tree food and vitagem swap glitch_
 
+</details>
+
 ### Version history
 
 Section coming soon.
+
+### In-app purchases
+
+Section coming soon
+
+### Development history
+
+Section coming soon
 
 ### Developer
 
@@ -477,7 +531,13 @@ Section coming soon.
 
 ## External links
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the external links section</H4></summary>
+
+**Other Wiki projects for Tree World**
+
 [Tree World on FANDOM](https://treeworld.fandom.com/wiki/Tree_World_Wiki)
+
+**Download Tree World for Android**
 
 [Tree World on APKPure](https://apkpure.com/tree-world%E2%84%A2-free-pocket-pet-adventure/com.playforge.treeoflife)
 
@@ -485,16 +545,186 @@ Section coming soon.
 
 [Tree World on Google Play](https://play.google.com/store/apps/details?id=com.playforge.treeoflife&hl=en&gl=US)
 
+**ThePlayForge on Social Media**
+
+[ThePlayForge on Twitter](https://twitter.com/theplayforge)
+
+[ThePlayForge Blog on Tumblr](https://theplayforge-blog-blog.tumblr.com/)
+
+**Git-image by [@seanpm2001](https://github.com/seanpm2001/)**
+
+[Seans Life Archive : Tree World images Volume 0 (2021 December) (current)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/)
+
+[Seans Life Archive : Tree World images Volume 1 (2022 January)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V1/)
+
+[Seans Life Archive : Tree World images Volume 2 (2022 February)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2/)
+
+</details>
+
+***
+
+## Page history
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the page history section</H4></summary>
+
+**Version 1 (2022 Tuesday February 15th at 2:58 pm)**
+
+> Changes:
+
+> * Started the page
+
+> * Added the title section
+
+> * Added the starter pages section
+
+> * Added the developer section
+
+> * Added the see also section
+
+> * No other changes in version 1
+
+**Version 2 (2022 Tuesday February 15th at 3:14 pm)**
+
+> Changes:
+
+> * Added the lists section
+
+> * Added the main characters section
+
+> * Added the tree section
+
+> * Added the critter capsule section
+
+> * Added the critter exchange section
+
+> * Added the currency section
+
+> * Added the gameplay section
+
+> * Added the adventures section
+
+> * Added the critters section
+
+> * Added a timestamp
+
+> * No other changes in version 2
+
+**Version 3 (2022 Tuesday February 15th at 3:49 pm)**
+
+> Changes:
+
+> * Added graphics
+
+> * Updated the tree section
+
+> * Added the plants section
+
+> * Added the original developers section
+
+> * Added the game glitches section
+
+> * Updated the timestamp
+
+> * No other changes in version 3
+
+**Version 4 (2022 Tuesday February 15th at 8:12 pm)**
+
+Rushed release, accidentally published early through `CTRL` + `ENTER` shortcut
+
+> Changes:
+
+> * Fixed a link in the tree section
+
+> * Updated the critters section
+
+> * Added the rarity levels section
+
+> * No other changes in version 4
+
+**Version 5 (2022 Tuesday February 15th at 8:32 pm)**
+
+> Changes:
+
+> * Updated the lists section
+
+> * Updated the critters section
+
+> * Updated the timestamp
+
+> * No other changes in version 5
+
+**Version 6 (2022 Wednesday February 16th at 1:32 pm)**
+
+> Changes:
+
+> * Updated the description
+
+> * Updated the adventures section
+
+> * Added the soundtrack section
+
+> * Updated the critters section
+
+> * Added the external links section
+
+> * Added the version history section
+
+> * Updated the timestamp section, turned into a page info secton
+
+> * No other changes in version 6
+
+**Version 7 (2022 Thursday February 17th at 3:33 pm)**
+
+> Changes
+
+> * Converted several sections to dropdown sections
+
+> * Updated the critters section
+
+> * Added more external links
+
+> * Added the in-app purchased section
+
+> * Added the development history section
+
+> * Added the page history section
+
+> * Updated the page info section
+
+> * No other changes in version 7
+
+**Version 8 (Coming soon)**
+
+> Changes
+
+> * Coming soon
+
+> * No other changes in version 8
+
+</details>
+
 ***
 
 ## Page info
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the page info section</H4></summary>
+
 **Page type:** `Wiki homepage`
 
-**Page formatting:** `Markdown (Commonmark) (*.md *.mkd *.mdown *.markdown)`
+**Page formatting:** `Markdown (CommonMark) (*.md *.mkd *.mdown *.markdown)`
 
-**Page version:** `6 (2022, Wednesday, February 16th at 1:32 pm)`
+**Page version:** `7 (2022, Thursday, February 17th at 3:33 pm)`
 
-**Line count (Including blank lines and compiler line):** `501`
+**Line count (Including blank lines and compiler line):** `731`
+
+**Current article language:** `English (US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+
+**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+
+**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+**You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details>
 
 ***
