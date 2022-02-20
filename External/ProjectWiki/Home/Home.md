@@ -33,6 +33,8 @@ This is an unofficial Tree World Wiki project.
 
 [List of Poppy upgrades](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-Poppy-upgrades)
 
+[List of tree layers](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-tree-layers/)
+
 </details>
 
 ### Main characters
@@ -99,11 +101,35 @@ This is an unofficial Tree World Wiki project.
 
 [Tree World soundtrack](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Soundtrack)
 
+### Tree layers
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the list of tree layers section</H4></summary>
+
+[List of tree layers](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-tree-layers/)
+
+[Forest Floor (1-5)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Forest-floor-(layer))
+
+[Shrub (6-15)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Shrub-(layer))
+
+[Understory (16-25)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Understory-(layer))
+
+[Canopy (26-35)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Canopy-floor-(layer))
+
+[Emergent (36-60)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Emergent-(layer))
+
+[Stratum (61-80)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Stratum-(layer))
+
+[Aurora (81-?)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Aurora-(layer))
+
+Other/unknown
+
+</details>
+
 ### Critters
 
 _Incomplete list. When it is completed, there should be 301 entries._
 
-**Current entry count:** `136` / `301` (`45.18%`)
+**Current entry count:** `137` / `301` (`45.51%`)
 
 <details><summary><H4 lang="en">Click/tap here to expand/collapse the critters list section</H4></summary>
 
@@ -383,6 +409,8 @@ _Incomplete list. When it is completed, there should be 301 entries._
 
 [Echidna (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Echidna-(critter)) <!-- 136 !-->
 
+[Apatosaurus (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Apatosaurus-(critter)) <!-- 137 !-->
+
 </details>
 
 ### Rarity levels
@@ -559,6 +587,8 @@ Section coming soon
 
 [Seans Life Archive : Tree World images Volume 2 (2022 February)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2/)
 
+[Seans Life Archive : Tree World images Volume 3 (2022 March)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3/)
+
 </details>
 
 ***
@@ -693,13 +723,39 @@ Rushed release, accidentally published early through `CTRL` + `ENTER` shortcut
 
 > * No other changes in version 7
 
-**Version 8 (Coming soon)**
+**Version 8 (2022, Sunday, February 20th at pm)**
+
+> Changes
+
+> * Added the tree layers section
+
+> * Updated the list of lists section
+
+> * Updated the critters section
+
+> * Updated the page history section
+
+> * Updated the page info section
+
+> * Updated the external links section
+
+> * No other changes in version 8
+
+**Version 9 (Coming soon)**
 
 > Changes
 
 > * Coming soon
 
-> * No other changes in version 8
+> * No other changes in version 9
+
+**Version 10 (Coming soon)**
+
+> Changes
+
+> * Coming soon
+
+> * No other changes in version 10
 
 </details>
 
@@ -713,9 +769,9 @@ Rushed release, accidentally published early through `CTRL` + `ENTER` shortcut
 
 **Page formatting:** `Markdown (CommonMark) (*.md *.mkd *.mdown *.markdown)`
 
-**Page version:** `7 (2022, Thursday, February 17th at 3:33 pm)`
+**Page version:** `8 (2022, Sunday, February 20th at 2:15 pm)`
 
-**Line count (Including blank lines and compiler line):** `731`
+**Line count (Including blank lines and compiler line):** `787`
 
 **Current article language:** `English (US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
