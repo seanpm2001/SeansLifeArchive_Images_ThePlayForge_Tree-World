@@ -3,11 +3,19 @@
 
 # Tree World Wiki (unofficial)
 
+<details open><summary><p lang="en">Click/tap here to expand/collapse the Tree World wordmark</summary>
+
 ![https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Wordmark/placeholder_title-hd.png](https://github.com/seanpm2001/ZooTree/blob/main/Graphics/TreeWorld/Wordmark/placeholder_title-hd.png)
+
+</details>
+
+<details open><summary><p lang="en">Click/tap here to expand/collapse the Tree World Wiki lead section</summary>
 
 Welcome to the SeansLifeArchive_Images_ThePlayForge_Tree-World wiki!
 
-This is an unofficial Tree World Wiki project.
+This is an unofficial Tree World Wiki project. It documents every aspect of Tree World in the [@seanpm2001](https://github.com/seanpm2001/) style.
+
+</details>
 
 ## Starter pages
 
@@ -16,6 +24,16 @@ This is an unofficial Tree World Wiki project.
 <details><summary><H4 lang="en">Click/tap here to expand/collapse the lists of lists section</H4></summary>
 
 [List of critters](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-critters)
+
+> [List of common critters](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-common-critters/)
+
+> [List of uncommon critters](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-uncommon-critters/)
+
+> [List of rare critters](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-rare-critters/)
+
+> [List of legendary critters](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-legendary-critters/)
+
+> [List of limited critters](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-limited-critters/)
 
 [List of plants](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/List-of-plants)
 
@@ -39,9 +57,13 @@ This is an unofficial Tree World Wiki project.
 
 ### Main characters
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the main characters section</H4></summary>
+
 [Poppy](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Poppy)
 
 [Pappy (fairy)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-WOrld/wiki/Pappy-(fairy))
+
+</details>
 
 ### Tree
 
@@ -65,23 +87,39 @@ This is an unofficial Tree World Wiki project.
 
 ### Critter capsules
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the critter capsules section</H4></summary>
+
 [Critter capsule](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Critter-capsule)
+
+</details>
 
 ### Critter exchange
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the critter exchange section</H4></summary>
+
 [Critter exchange](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Critter-exchange)
 
+</details>
+
 ### Currency
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the currency section</H4></summary>
 
 [Tree food](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tree-food)
 
 [Vitagems](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Vitagems)
 
+</details>
+
 ### Gameplay
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the gameplay section</H4></summary>
 
 [Controls](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Controls)
 
 [Tutorial](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Tutorial)
+
+</details>
 
 ### Adventures
 
@@ -99,7 +137,13 @@ This is an unofficial Tree World Wiki project.
 
 ### Soundtrack
 
-[Tree World soundtrack](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Soundtrack)
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the tree world soundtrack section</H4></summary>
+
+[Tree World soundtrack](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Soundtrack/)
+
+[Tree World sound effects](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Sound-effects/)
+
+</details>
 
 ### Tree layers
 
@@ -129,7 +173,7 @@ Other/unknown
 
 _Incomplete list. When it is completed, there should be 301 entries._
 
-**Current entry count:** `137` / `301` (`45.51%`)
+**Current entry count:** `138` / `301` (`45.85%`)
 
 <details><summary><H4 lang="en">Click/tap here to expand/collapse the critters list section</H4></summary>
 
@@ -411,6 +455,8 @@ _Incomplete list. When it is completed, there should be 301 entries._
 
 [Apatosaurus (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Apatosaurus-(critter)) <!-- 137 !-->
 
+[Lion (critter)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Lion-(critter)) <!-- 138 !-->
+
 </details>
 
 ### Rarity levels
@@ -513,13 +559,21 @@ _Incomplete list. When it is completed, there should be 301 entries._
 
 #### Level 6
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the level 6 plant section</H4></summary>
+
 [Fairys plant (versatile)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Fairys-plant-(versatile))
 
+</details>
+
 ### Original developers
+
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the original developers section</H4></summary>
 
 [The PlayForge](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/The-PlayForge)
 
 [Behavior Interactive](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/Behavior-Interactive)
+
+</details>
 
 ### Game glitches
 
@@ -539,23 +593,43 @@ _Incomplete list. When it is completed, there should be 301 entries._
 
 ### Version history
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the version history section</H4></summary>
+
 Section coming soon.
+
+</details>
 
 ### In-app purchases
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the In-app purchases section</H4></summary>
+
 Section coming soon
+
+</details>
 
 ### Development history
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the development history section</H4></summary>
+
 Section coming soon
+
+</details>
 
 ### Developer
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the Wiki developer resources section</H4></summary>
+
 [Todo list (coming soon)](https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World/wiki/.TODO)
+
+</details>
 
 ## See also
 
+<details><summary><H4 lang="en">Click/tap here to expand/collapse the see also section</H4></summary>
+
 [ZooTree Wiki (coming soon)](https://github.com/seanpm2001/ZooTree/wiki/home)
+
+</details>
 
 ## External links
 
@@ -741,11 +815,21 @@ Rushed release, accidentally published early through `CTRL` + `ENTER` shortcut
 
 > * No other changes in version 8
 
-**Version 9 (Coming soon)**
+**Version 9 (2022, Sunday, February 200th at 4:15 pm)**
 
 > Changes
 
-> * Coming soon
+> * Updated the critters section
+
+> * Updated the list of lists section
+
+> * Collapsed the remaining uncollapsed sections
+
+> * Updated the page history section
+
+> * Updated the page info section
+
+> * Updated the lead section
 
 > * No other changes in version 9
 
@@ -769,9 +853,9 @@ Rushed release, accidentally published early through `CTRL` + `ENTER` shortcut
 
 **Page formatting:** `Markdown (CommonMark) (*.md *.mkd *.mdown *.markdown)`
 
-**Page version:** `8 (2022, Sunday, February 20th at 2:15 pm)`
+**Page version:** `9 (2022, Sunday, February 20th at 4:15 pm)`
 
-**Line count (Including blank lines and compiler line):** `787`
+**Line count (Including blank lines and compiler line):** `871`
 
 **Current article language:** `English (US)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
